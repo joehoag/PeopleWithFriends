@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">People With Friends</string>
+    <string name="action_new_info">Get New Info</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone</string>
+    <string name="friends">Friends</string>
+</resources>
